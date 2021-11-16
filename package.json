@@ -1,0 +1,23 @@
+{
+  "name": "express_hello_world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imjonathanking/express_hello_world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imjonathanking/express_hello_world/issues"
+  },
+  "homepage": "https://github.com/imjonathanking/express_hello_world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
